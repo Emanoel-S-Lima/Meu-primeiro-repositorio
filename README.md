@@ -1,5 +1,5 @@
 # Meu-primeiro-repositorio
-Esse é o meu primeiro repositório de muitos outros, uma média aritmétrica e python.
+Esse é o meu primeiro repositório de muitos outros, uma média aritmétrica na linguagem python.
 # Digitando as notas
 nota1 = float( input("Digite a primeira nota: ") )
 nota2 = float( input("Digite a segunda nota: ") )
